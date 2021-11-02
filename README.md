@@ -1,2 +1,2 @@
 # hello-world
-practice
+Hello world! I'm practicing Github so that I can make money
